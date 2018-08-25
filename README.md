@@ -8,3 +8,6 @@ woohoo!!
 
 editing, saving and committing #2
 going for #3 later
+
+editing saving and committing #3
+finishing #3
